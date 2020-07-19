@@ -1,0 +1,16 @@
+{
+  "name": "promedis",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "deploy": "gh-pages -d dist/site"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://promedis.github.io/promedis",
+  "dependencies": {
+    "gh-pages": "^1.2.0"
+  }
+}
